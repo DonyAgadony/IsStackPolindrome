@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\bin\Debug\net8.0\IsStackPolindrome.exe
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\bin\Debug\net8.0\IsStackPolindrome.deps.json
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\bin\Debug\net8.0\IsStackPolindrome.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\bin\Debug\net8.0\IsStackPolindrome.dll
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\bin\Debug\net8.0\IsStackPolindrome.pdb
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.dll
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\refint\IsStackPolindrome.dll
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.pdb
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\IsStackPolindrome.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\IsStackPolindrome\obj\Debug\net8.0\ref\IsStackPolindrome.dll
